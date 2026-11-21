@@ -20,11 +20,11 @@ Programa de menú que analiza las descargas y las caídas semanales de la aplica
 No hace falta clonar el proyecto ni tener Python instalado. Al ser un programa interactivo por consola que pide entradas por teclado, se debe arrancar con el modificador `-it`:
 
 ```bash
-docker run --rm -it --pull always Arecmon605/monitor-app-03:1.0.0
+docker run --rm -it --pull always arecmon605/monitor-app-03:1.0.0
 ```
 
 Repositorio público en Docker Hub:  
-https://hub.docker.com/r/Arecmon605/monitor-app-03
+https://hub.docker.com/r/arecmon605/monitor-app-03
 
 ## Ejecución en local
 
