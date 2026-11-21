@@ -1,0 +1,9 @@
+.git
+.venv
+__pycache__
+*.pyc
+.idea
+.vscode
+*.docx
+*.pdf
+informe*.pdf

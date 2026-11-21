@@ -1,0 +1,10 @@
+# Entorno virtual
+.venv/
+
+# Bytecode de Python
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
